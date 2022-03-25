@@ -25,6 +25,4 @@ social media marketing,
 6.Remove footer content and text "from horiseon with love with trademark date etc. to match mock up.
 
 CSS
-
-1.Change font size under the p class (row 49) to 27px to change paragraph size.
-2.Change header div class font size to 23px.
+1.leave the font sizes, etc. in the original format.
