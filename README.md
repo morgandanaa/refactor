@@ -10,3 +10,8 @@ h1 lead generation
 h2 brand awareness
 h3 cost management
 h4 made with love by horiseon.
+Add alt accessible attribute descriptions for the images in the following sections:
+div class=hero.,
+search engine optimization, 
+online reputation management, 
+social media marketing,
