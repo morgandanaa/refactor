@@ -6,7 +6,7 @@ h1 Horiseon
 h2 search engine opt.
 h3 online rep. management
 h4 social media marketing
-h5 lead generation
-h6 brand awareness
-h7 cost management
-h8 made with love by horiseon.
+h1 lead generation
+h2 brand awareness
+h3 cost management
+h4 made with love by horiseon.
