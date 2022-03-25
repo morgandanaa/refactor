@@ -1,28 +1,20 @@
 # refactor
 HTML
 
-1.Add div id="search-engine-optimization" so once clicked in header user will be navigated to the search engine optimization section on page.
+The title of this project is Refactor.
 
-2.Update the element title and change from 'website' to Horiseon.com.
+Changes throughout this project are made by utilizing CSS and HTML styles.
 
-3.Update heading attributes and organize them in sequential order. Order them as follows: 
-h1 Horiseon 
-h2 search engine opt.
-h3 online rep. management
-h4 social media marketing
-h1 lead generation
-h2 brand awareness
-h3 cost management
-h4 made with love by horiseon.
 
-4.Add alt accessible attribute descriptions for the images in the following sections:
-div class=hero.,
-search engine optimization, 
-online reputation management, 
-social media marketing,
+By using HTML code styles for function optimization, a div tag is added in order for the "search engine optimization" link in the header to direct the user to the correct section on the page once clicked.
 
-5.Identify the structure of the html elements using comments that appear as such: <!-- xyz-->
-6.Remove footer content and text "from horiseon with love with trademark date etc. to match mock up.
+Continuing the use of the HTML coding style; update  the element title for concise descriptions within the code. Change 'website' title to Horiseon.com.
+
+Utilizing the HTML coding style update the heading attributes so that the user can identify them in sequential order beginning with 'h1'.
+This will betterr identify the heading attributes for efficient accessibility for the user.
+
+Once more using the HTML coding style, add alt accessible attribute descriptions for the inclusivity of all internet users. And identify the structure of the html elements by use of depicting commentary above the desired code.
 
 CSS
-1.leave the font sizes, etc. in the original format.
+
+Within this project leave the original CSS code style as is regarding the font, text size, and colors.
