@@ -1,4 +1,6 @@
 # refactor
+HTML
+
 1.Add div id="search-engine-optimization" so once clicked in header user will be navigated to the search engine optimization section on page.
 
 2.Update the element title and change from 'website' to Horiseon.com.
@@ -20,3 +22,9 @@ online reputation management,
 social media marketing,
 
 5.Identify the structure of the html elements using comments that appear as such: <!-- xyz-->
+6.Remove footer content and text "from horiseon with love with trademark date etc. to match mock up.
+
+CSS
+
+1.Change font size under the p class (row 49) to 27px to change paragraph size.
+2.Change header div class font size to 23px.
